@@ -8,7 +8,7 @@
     <con:settings/>
     <con:config>
       <script><![CDATA[//<<<<<<<<<< Added  some < symbols to make this script wrapped in CDATA in xml file
-log.info("Hello World");
+log.info("remote change");
 log.info("One more line");]]></script>
     </con:config>
   </con:testStep>
